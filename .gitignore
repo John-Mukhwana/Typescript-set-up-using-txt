@@ -1,0 +1,30 @@
+#ignore all text files
+*.txt
+#ignore all .log files
+*.log
+#ignore all temp  files
+*.tmp
+# Ignore all text files
+*.txt
+
+# Ignore all .log files
+*.log
+
+# Ignore all temp files
+*.tmp
+
+# Ignore specific file or directory
+file.txt
+directory/
+# Ignore specific file or directory
+file.txt
+directory/
+#ignore all files with node_modules
+node_modules/
+#ignore all files with node_modules
+node_modules
+#ignore all files with .git
+.git/
+#ignore all  directories
+directory/
+
